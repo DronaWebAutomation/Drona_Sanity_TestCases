@@ -1,0 +1,10 @@
+{
+    "validLogin": {
+        "docusername": "1100012000",
+        "docpassword": "999999"
+    },
+    "invalidLogin": {
+        "username": "invalidUser",
+        "password": "wrongPassword"
+    }
+}
